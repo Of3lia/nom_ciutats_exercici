@@ -1,0 +1,11 @@
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\bin\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.deps.json
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\bin\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.runtimeconfig.json
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\bin\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.runtimeconfig.dev.json
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\bin\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.dll
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\bin\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.pdb
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\obj\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.csprojAssemblyReference.cache
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\obj\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.csproj.CoreCompileInputs.cache
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\obj\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.AssemblyInfoInputs.cache
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\obj\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.AssemblyInfo.cs
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\obj\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.dll
+C:\Users\ofeli\source\repos\Exercici_Noms_Ciutats\Exercici_Noms_Ciutats\obj\Debug\netcoreapp2.0\Exercici_Noms_Ciutats.pdb
