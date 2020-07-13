@@ -25,8 +25,37 @@
         console.log(element, ", ");
     });
 
+    let bcn = [];
+    let md = [];
+    let vl = [];
+    let ml = [];
+    let cad = [];
+    let san = [];
 
+    function fillArray(arr, str){
+        for (let i = 0; i < str.length; i++){
+            arr.push(str[i]);
+        }
+    }
 
+    fillArray(bcn, city1);
+    fillArray(md, city2);
+    fillArray(vl, city3);
+    fillArray(ml, city4);
+    fillArray(cad, city5);
+    fillArray(san, city6);
+
+    function showArrayInverted(arr){
+        arr.reverse();
+        console.log(arr);
+    }
+
+    showArrayInverted(bcn);
+    showArrayInverted(md);
+    showArrayInverted(vl);
+    showArrayInverted(ml);
+    showArrayInverted(cad);
+    showArrayInverted(san);
     // var input = document.getElementById('input');
     // var output = document.getElementById('output');
     // var button = document.getElementById('button');
