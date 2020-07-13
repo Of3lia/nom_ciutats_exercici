@@ -1,0 +1,55 @@
+<!-- <p>Insert 6 cities name</p>
+<div>
+    <p id="output">City 1 Name: </p>
+    <input id="input" type="text">
+    <button id="button">Send</button>
+</div> -->
+
+<script>
+
+    let city1 = 'Barcelona', city2 = 'Madrid', city3 = 'Valencia', city4 = 'Malaga', city5 = 'Cadis', city6 = 'Santander';
+
+    console.log(city1, ', ', city2, ', ', city3, ', ', city4, ', ', city5, ', ', city6, ', ');
+    
+    let cities = [city1,city2,city3,city4,city5,city6];
+    cities.sort();
+    cities.forEach(element => {
+        console.log(element, ", ");
+    });
+
+    let citiesModified  = [];
+    cities.forEach(element => {
+        citiesModified.push(element.replace(/a/g, '4'));
+    });
+    citiesModified.forEach(element => {
+        console.log(element, ", ");
+    });
+
+
+
+    // var input = document.getElementById('input');
+    // var output = document.getElementById('output');
+    // var button = document.getElementById('button');
+    // getCityName(input, output, city1);
+
+
+
+// function getCityName(inp, outp, cit, button){
+//     inp.oninput = () => {
+//         cit = input.value;
+//         outp.innerHTML = "City 1 Name: " + cit; 
+//     }
+// }
+
+</script>
+
+<!-- <style>
+
+    * {
+        margin:2px;
+    }
+    div{
+        border: 2px solid black;
+        float: left;
+    }
+</style> -->
